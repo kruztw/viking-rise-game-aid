@@ -1,10 +1,17 @@
 # 維京崛起輔助器
 
+## 重要 !!!
+
+1. resource/static 的測試環境為 1920 x 1080，模擬器採全螢幕
+   不同環境可能會導致抓取圖片失敗
+   建議使用 ui.exe 的功能重新抓取圖片
+
 ## 使用說明
 
 1. 點擊 game.exe
 2. 點擊 ui.exe
 3. 設定好後點選開始
+
 
 ## 相關檔案
 
@@ -128,3 +135,7 @@
 * speedup
 * gameIcon
 * restartIcon
+
+### 聯絡方式
+
+email: kruztw@gmail.com
