@@ -13,6 +13,8 @@
 
 ## ui.exe 介面
 
+![ui.png](https://github.com/kruztw/viking-rise-game-aid/picture/ui.png)
+
 ### 遊戲頁面
 
 * 模擬器選單
