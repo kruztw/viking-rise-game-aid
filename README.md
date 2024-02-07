@@ -1,5 +1,7 @@
 # 維京崛起輔助器
 
+[Youtube 影片](https://www.youtube.com/watch?v=d3og9OBxSz0&ab_channel=easyLearn)
+
 ## 使用說明
 
 1. 將維京崛起放在模擬器的第一個位置 (第一行第一列)，若是第一次執行請停留於此畫面
@@ -92,34 +94,6 @@
         * 選單中的圖片於遊戲畫面中皆為固定位置，非固定位置之圖片請用截圖 (1)
 
 ### 圖片說明
-
-* profile
-* home
-* setting
-* manageCharacter
-* createCharacter
-* redConfirm
-* blueCancel
-* guideAndHelp
-* recruit
-* train
-* tribeAssist
-* obtainResource
-* obtainResourceOK
-* tribe
-* technology
-* goldGood
-* donateChances
-* exit
-* exit2
-* exit3
-* exit4
-* back
-* back2
-* back3
-* speedup
-* gameIcon
-* restartIcon
 
 ### 聯絡方式
 
